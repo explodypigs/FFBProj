@@ -1,0 +1,18 @@
+# Arduino build output and local IDE state
+build/
+*.hex
+*.elf
+*.bin
+*.eep
+*.map
+*.lss
+*.sym
+*.tmp
+*.bak
+.vscode/
+.idea/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
